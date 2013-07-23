@@ -1,5 +1,5 @@
 # customSwipe
-It's simple plugin for load content when you scroll, it's diferent than other plugins because it's very simple and only 2-3Kb
+It's simple plugin for load content when you scroll, it's diferent than other plugins because it's very simple and only 600bytes
 
 ## Options
  * @param {Object}   params   [All options of the plugin]

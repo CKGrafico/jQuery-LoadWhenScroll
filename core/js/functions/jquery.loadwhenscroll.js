@@ -41,9 +41,6 @@
                 $this.on("scroll",function() {
                     var scr = $this[scrollDirection]();
                     var size = $this[0][scrollInfo];
-
-                    console.log("scr: "+scr+" size: "+size+" rest: "+ (size-options.threshold) );
-
                     if(scr >= size-options.threshold){
                         methods.callback();
                     }
