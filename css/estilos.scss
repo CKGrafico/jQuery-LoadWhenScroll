@@ -1,0 +1,24 @@
+// Imports
+@import 'reset.scss';
+@import 'functions.scss';
+
+// Variables
+$prefixes: webkit moz ms;
+
+#scroller{
+	background: white;
+	width: 800px;
+	padding: 10px;
+	height: 500px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+#scroller2{
+	background: white;
+	width: 800px;
+	padding: 10px;
+	height: 200px;
+	overflow-x: scroll;
+	overflow-y: hidden;
+}
