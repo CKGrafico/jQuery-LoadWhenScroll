@@ -27,3 +27,4 @@ It's simple plugin for load content when you scroll, it's diferent than other pl
 ## About
 Plugin by @ CKGRafico
 Website: http://www.ckgrafico.com
+.
